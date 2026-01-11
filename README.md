@@ -36,10 +36,7 @@ Our development team utilizes a modern stack to build secure and responsive appl
 
 ---
 
-### 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvm-ceylon-limited&show_icons=true&theme=default&hide_border=true&title_color=0e75b6" alt="HVM Stats" />
-</p>
+
 
 <br />
 
