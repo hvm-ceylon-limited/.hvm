@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://lh3.googleusercontent.com/d/OWAFCrixeNqqCQ5RHSYKlSnROLc0rbdKhGdUTho2XHz_AyKFs47RgxdBM0YpH7a35AsUr84D=w1060](https://yt3.googleusercontent.com/OWAFCrixeNqqCQ5RHSYKlSnROLc0rbdKhGdUTho2XHz_AyKFs47RgxdBM0YpH7a35AsUr84D=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)" alt="HVM CEYLON LIMITED Banner" width="100%" />
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC70m3_A5WHnQJvYhO2HyzYQ&ved=0CBYQjRxqFwoTCOCp6LuPg5IDFQAAAAAdAAAAABA6&opi=89978449" alt="HVM CEYLON LIMITED Banner" width="100%" />
 </p>
 
 <h1 align="center">HVM CEYLON LIMITED</h1>
