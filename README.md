@@ -1,62 +1,48 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hvm-ceylon-limited/.github/main/profile/logo.png" height="150" alt="HVM Ceylon Logo" />
+  <img src="https://lh3.googleusercontent.com/d/OWAFCrixeNqqCQ5RHSYKlSnROLc0rbdKhGdUTho2XHz_AyKFs47RgxdBM0YpH7a35AsUr84D=w1060" alt="HVM CEYLON LIMITED Banner" width="100%" />
 </p>
 
-<h1 align="center"> HVM CEYLON LIMITED <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="45px" alt="sparkle"></h1>
+<h1 align="center">HVM CEYLON LIMITED</h1>
 
-<h3 align="center">Empowering Businesses through Innovative Digital Solutions in Sri Lanka 🇱🇰</h3>
+<h3 align="center">Specializing in Scalable Enterprise Solutions & Digital Innovation 🇱🇰</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Excellence;Custom+Enterprise+Solutions;AI+%26+Machine+Learning;Digital+Transformation+Experts&center=true&width=500&height=50&color=0e75b6">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Enterprise+Software+Development;Full+Stack+Web+Solutions;Database+Architecture;Digital+Transformation&center=true&width=500&height=50&color=0e75b6">
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<table align="center">
-<tr border="none">
-<td width="60%" align="left">
+---
 
 ### 🏢 About the Company
-- 🔭 **Focus:** We specialize in high-performance **C# and Python** development.
-- 🌱 **Innovation:** Currently integrating **Artificial Intelligence** into local business workflows.
-- 🤝 **Collaboration:** Open to partnerships on **Open Source** and **Enterprise** projects.
-- 💬 **Expertise:** Ask us about **Software Architecture, UI/UX, and Scalable Systems**.
-- 📫 **Contact:** Reach our team at **info@hvmceylon.com**
+HVM CEYLON LIMITED is a technology-driven organization based in Sri Lanka, focused on providing high-performance software engineering services. We bridge the gap between complex business challenges and modern digital solutions.
 
-</td>
-<td width="35%" align="center">
-<img align="center" alt="Coding GIF" width="400" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
-</td>
-</tr>
-</table>
+- 🎯 **Our Mission:** To deliver robust, secure, and scalable applications that empower business growth.
+- 🚀 **Core Expertise:** Designing and maintaining enterprise-grade systems with a focus on reliability.
+- 🤝 **Commitment:** We prioritize clean code, documentation, and long-term technical support.
+- 📫 **Inquiries:** Contact us at **info@hvmceylon.com**
 
-<hr>
+---
 
 ### 🛠 Tech Stack & Tools
+Our development team utilizes a modern stack to build secure and responsive applications:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/> **React** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25" height="25"/> **Tailwind CSS** |
+| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/> **Node.js** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25" height="25" style="filter: brightness(0) invert(1)"/> **Express.js** |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/> **PostgreSQL** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" height="25"/> **MySQL** |
+| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25" height="25"/> **C#** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/> **Python** |
+
+---
+
+### 📊 Performance Metrics
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hvm-ceylon-limited&show_icons=true&theme=default&hide_border=true&title_color=0e75b6" alt="HVM Stats" />
 </p>
 
-<hr>
+<br />
 
-### 📈 Organization Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hvm-ceylon-limited&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" alt="HVM Stats" />
+  <sub>© 2026 HVM CEYLON LIMITED. Excellence in Digital Engineering.</sub>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="100px" />
-  <p><i>"Code with Purpose, Build with Excellence"</i></p>
-</div>
