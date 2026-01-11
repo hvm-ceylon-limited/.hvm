@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=VHM Express;Digital+Transformation&center=true&width=500&height=50&color=0e75b6">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=VHM+Express&center=true&width=500&height=50&color=0e75b6">
   </a>
 </p>
 
